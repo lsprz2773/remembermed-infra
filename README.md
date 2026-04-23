@@ -9,6 +9,7 @@ Con un solo comando, este repositorio levanta los tres servicios necesarios para
 
 ## Prerrequisitos
 - Tener instalado [Docker](https://www.docker.com/) y **Docker Compose**.
+- Variables de entorno creadas en la raiz [Descarga](https://drive.google.com/drive/folders/1jYgbG86Udje6DTyyGGPxnkz8tUEdygiY?usp=sharing)
 
 ## Cómo levantar el proyecto
 
